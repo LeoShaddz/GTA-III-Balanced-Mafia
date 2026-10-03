@@ -6,4 +6,4 @@ This balancing is based on an official Rockstar adjustment: in the PS2 PAL v1.40
 
 The mod is customizable; via the .ini file, you can choose which in-game gang to balance and which weapon to replace. However, the default configuration is the one I described earlier.
 
-If you encounter any issues or instability, feel free to contribute or even create your own version if you can improve upon this one.
+If you encounter any issues or instability, feel free to contribute or even create your own version if you can improve upon this one, sorry for any problem.
