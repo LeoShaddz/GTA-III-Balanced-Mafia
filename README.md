@@ -6,7 +6,7 @@ This balancing is based on an official Rockstar adjustment: in the PS2 PAL v1.40
 
 The mod is customizable; via the .ini file, you can choose which weapon to replace. However, the default configuration is the one I described earlier.
 
-AI disclosure
+AI disclosure:
 The code of this mod was written by Claude Sonnet 5.5 and tested in-game by me.
 
 If you encounter any issues, feel free to contribute or even create your own version. Sorry for any problem.
