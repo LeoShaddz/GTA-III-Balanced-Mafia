@@ -1,4 +1,4 @@
-# GTA III Balanced Mafia
+# GTA III Balanced Mafia Mod
 
 This mod aims to balance the Mafia members in GTA III free roam. In the original game, they carry shotguns that can blow up your vehicle in just one or two shots, making it practically impossible to get past them. This mod replaces the Mafia members shotguns with Micro Uzis, creating a more balanced experience.
 
